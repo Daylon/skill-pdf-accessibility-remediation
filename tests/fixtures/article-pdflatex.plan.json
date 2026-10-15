@@ -1,0 +1,369 @@
+{
+ "metadata": {
+  "title": "Reading Order in Two-Column Layouts — A. Researcher, B. Scientist (2026)",
+  "lang": "en-US",
+  "author": "A. Researcher; B. Scientist",
+  "subject": null,
+  "keywords": []
+ },
+ "options": {
+  "reorder_text": "auto",
+  "pdfua": "auto",
+  "bookmarks": "auto"
+ },
+ "artifacts": {
+  "lines": [
+   "p1.L51",
+   "p1.L101",
+   "p2.L73"
+  ]
+ },
+ "structure": [
+  {
+   "tag": "Document",
+   "children": [
+    {
+     "tag": "H1",
+     "content": [
+      "p1.L1"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L2"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L3"
+     ]
+    },
+    {
+     "region": "R2",
+     "label": "p1 row R2",
+     "children": [
+      {
+       "region": "R2·C1",
+       "label": "p1 column R2·C1",
+       "children": [
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L4"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L5",
+          "p1.L6",
+          "p1.L7",
+          "p1.L8"
+         ]
+        },
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L9"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L10",
+          "p1.L11",
+          "p1.L12",
+          "p1.L13",
+          "p1.L14",
+          "p1.L15",
+          "p1.L16",
+          "p1.L17",
+          "p1.L18",
+          "p1.L19",
+          "p1.L20",
+          "p1.L21",
+          "p1.L22",
+          "p1.L23",
+          "p1.L24",
+          "p1.L25",
+          "p1.L26",
+          "p1.L27",
+          "p1.L28",
+          "p1.L29"
+         ]
+        },
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L30"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L31",
+          "p1.L32"
+         ]
+        },
+        {
+         "tag": "L",
+         "numbering": "Disc",
+         "items": [
+          {
+           "content": [
+            "p1.L33"
+           ]
+          },
+          {
+           "content": [
+            "p1.L34"
+           ]
+          },
+          {
+           "content": [
+            "p1.L35",
+            "p1.L36"
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L37"
+         ]
+        },
+        {
+         "tag": "Formula",
+         "content": [
+          "p1.L39",
+          "p1.L40",
+          "p1.L41",
+          "p1.L42",
+          "p1.L38",
+          "p1.L45",
+          "p1.L43",
+          "p1.L44"
+         ],
+         "alt": "kappa equals p o minus p e, divided by 1 minus p e. Equation 1."
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L46",
+          "p1.L47",
+          "p1.L48",
+          "p1.L49",
+          "p1.L50"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L52"
+         ]
+        }
+       ]
+      },
+      {
+       "region": "R2·C2",
+       "label": "p1 column R2·C2",
+       "children": [
+        {
+         "tag": "P",
+         "content": [
+          "p1.L53",
+          "p1.L54",
+          "p1.L55",
+          "p1.L56",
+          "p1.L57",
+          "p1.L58",
+          "p1.L59",
+          "p1.L60",
+          "p1.L61",
+          "p1.L62",
+          "p1.L63",
+          "p1.L64",
+          "p1.L65",
+          "p1.L66",
+          "p1.L67",
+          "p1.L68",
+          "p1.L69",
+          "p1.L70",
+          "p1.L71",
+          "p1.L72"
+         ]
+        },
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L73"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L74",
+          "p1.L75",
+          "p1.L76",
+          "p1.L77",
+          "p1.L78",
+          "p1.L79",
+          "p1.L80",
+          "p1.L81",
+          "p1.L82",
+          "p1.L83",
+          "p1.L84",
+          "p1.L85",
+          "p1.L86",
+          "p1.L87",
+          "p1.L88",
+          "p1.L89",
+          "p1.L90",
+          "p1.L91",
+          "p1.L92",
+          "p1.L93",
+          "p1.L94",
+          "p1.L95",
+          "p1.L96",
+          "p1.L97",
+          "p1.L98",
+          "p1.L99",
+          "p1.L100"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "region": "page",
+     "label": "p2 columns",
+     "children": [
+      {
+       "region": "C1",
+       "label": "p2 column C1",
+       "children": [
+        {
+         "tag": "P",
+         "content": [
+          "p2.L1",
+          "p2.L2",
+          "p2.L3",
+          "p2.L4",
+          "p2.L5",
+          "p2.L6",
+          "p2.L7",
+          "p2.L8"
+         ]
+        },
+        {
+         "tag": "H3",
+         "content": [
+          "p2.L9"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p2.L10",
+          "p2.L11",
+          "p2.L12",
+          "p2.L13",
+          "p2.L14",
+          "p2.L15",
+          "p2.L16",
+          "p2.L17",
+          "p2.L18",
+          "p2.L19",
+          "p2.L20",
+          "p2.L21",
+          "p2.L22",
+          "p2.L23",
+          "p2.L24",
+          "p2.L25",
+          "p2.L26",
+          "p2.L27",
+          "p2.L28",
+          "p2.L29",
+          "p2.L30",
+          "p2.L31",
+          "p2.L32",
+          "p2.L33",
+          "p2.L34",
+          "p2.L35",
+          "p2.L36",
+          "p2.L37",
+          "p2.L38",
+          "p2.L39",
+          "p2.L40",
+          "p2.L41",
+          "p2.L42",
+          "p2.L43",
+          "p2.L44",
+          "p2.L45",
+          "p2.L46",
+          "p2.L47",
+          "p2.L48",
+          "p2.L49",
+          "p2.L50"
+         ]
+        },
+        {
+         "tag": "H2",
+         "content": [
+          "p2.L51"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p2.L52",
+          "p2.L53",
+          "p2.L54",
+          "p2.L55",
+          "p2.L56"
+         ]
+        }
+       ]
+      },
+      {
+       "region": "C2",
+       "label": "p2 column C2",
+       "children": [
+        {
+         "tag": "P",
+         "content": [
+          "p2.L57",
+          "p2.L58",
+          "p2.L59",
+          "p2.L60",
+          "p2.L61",
+          "p2.L62",
+          "p2.L63",
+          "p2.L64",
+          "p2.L65",
+          "p2.L66",
+          "p2.L67",
+          "p2.L68",
+          "p2.L69",
+          "p2.L70",
+          "p2.L71",
+          "p2.L72"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "unicode_overrides": {
+  "p1:/F49": {
+   "136": "•"
+  }
+ }
+}

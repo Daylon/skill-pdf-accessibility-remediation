@@ -1,0 +1,291 @@
+{
+ "metadata": {
+  "title": "La Lettre du Quartier Vert – numéro 14 – octobre 2026",
+  "lang": "fr-FR",
+  "author": null,
+  "subject": null,
+  "keywords": []
+ },
+ "options": {
+  "reorder_text": "auto",
+  "pdfua": "auto",
+  "bookmarks": "auto"
+ },
+ "artifacts": {
+  "lines": []
+ },
+ "structure": [
+  {
+   "tag": "Document",
+   "children": [
+    {
+     "tag": "H1",
+     "content": [
+      "p1.L1"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L2"
+     ]
+    },
+    {
+     "region": "R2",
+     "label": "p1 row R2",
+     "children": [
+      {
+       "region": "R2·C1",
+       "label": "p1 column R2·C1",
+       "children": [
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L3",
+          "p1.L4"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L5",
+          "p1.L6",
+          "p1.L7",
+          "p1.L8",
+          "p1.L9",
+          "p1.L10",
+          "p1.L11",
+          "p1.L12"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L13",
+          "p1.L14",
+          "p1.L15",
+          "p1.L16",
+          "p1.L17",
+          "p1.L18"
+         ]
+        },
+        {
+         "tag": "H3",
+         "content": [
+          "p1.L19"
+         ]
+        },
+        {
+         "tag": "Table",
+         "header_rows": 1,
+         "rows": [
+          [
+           [
+            "p1.L20"
+           ],
+           [
+            "p1.L21"
+           ],
+           [
+            "p1.L22"
+           ]
+          ],
+          [
+           [
+            "p1.L23"
+           ],
+           [
+            "p1.L24"
+           ],
+           [
+            "p1.L25",
+            "p1.L26"
+           ]
+          ],
+          [
+           [
+            "p1.L27",
+            "p1.L28"
+           ],
+           [
+            "p1.L29",
+            "p1.L30"
+           ],
+           [
+            "p1.L31",
+            "p1.L32"
+           ]
+          ],
+          [
+           [
+            "p1.L33"
+           ],
+           [
+            "p1.L34"
+           ],
+           [
+            "p1.L35",
+            "p1.L36"
+           ]
+          ]
+         ]
+        }
+       ]
+      },
+      {
+       "region": "R2·C2",
+       "label": "p1 column R2·C2",
+       "children": [
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L37",
+          "p1.L38"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L39",
+          "p1.L40",
+          "p1.L41",
+          "p1.L42"
+         ]
+        },
+        {
+         "tag": "Figure",
+         "graphics": [
+          "p1.G41",
+          "p1.G42",
+          "p1.G40",
+          "p1.G39"
+         ],
+         "alt": "Diagramme en barres des tonnes compostées : 2,4 en 2024, 3,2 en 2025 et 4,2 en 2026.",
+         "children": [
+          {
+           "tag": "Caption",
+           "content": [
+            "p1.L43",
+            "p1.L44"
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L45",
+          "p1.L46"
+         ]
+        },
+        {
+         "tag": "BlockQuote",
+         "content": [
+          "p1.L47",
+          "p1.L48",
+          "p1.L49"
+         ],
+         "lang": "en-US"
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L50",
+          "p1.L51",
+          {
+           "tag": "Link",
+           "annot": "p1.A1",
+           "lines": [
+            "p1.L52"
+           ],
+           "contents": "Envoyer un e-mail à compost@quartiervert.example"
+          },
+          "p1.L53"
+         ]
+        }
+       ]
+      },
+      {
+       "region": "R2·C3",
+       "label": "p1 column R2·C3",
+       "children": [
+        {
+         "tag": "H2",
+         "content": [
+          "p1.L54"
+         ]
+        },
+        {
+         "tag": "L",
+         "numbering": "Disc",
+         "items": [
+          {
+           "content": [
+            "p1.L55",
+            "p1.L56"
+           ]
+          },
+          {
+           "content": [
+            "p1.L57",
+            "p1.L58"
+           ]
+          },
+          {
+           "content": [
+            "p1.L59",
+            "p1.L60"
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "H3",
+         "content": [
+          "p1.L61"
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          "p1.L62",
+          "p1.L63",
+          {
+           "tag": "Link",
+           "link": {
+            "uri": "tel:0100000000",
+            "contents": "Appeler le 01 00 00 00 00"
+           },
+           "lines": [
+            "p1.L64"
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "P",
+         "content": [
+          {
+           "tag": "Link",
+           "annot": "p1.A2",
+           "lines": [
+            "p1.L65"
+           ],
+           "contents": "Ouvrir quartiervert.example/agenda"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L66"
+     ]
+    }
+   ]
+  }
+ ]
+}

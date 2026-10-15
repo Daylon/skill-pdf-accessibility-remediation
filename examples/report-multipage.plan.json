@@ -1,0 +1,303 @@
+{
+ "_about": "Three-page report exported from LibreOffice: running header/footer/page numbers are artifacts, a table continues across pages (one Table, rows from p1 and p2), a bar chart drawn with vector paths is one Figure with alt text and its Caption, an existing link annotation (p1.A1) is wrapped in a Link inside the paragraph that contains it. Line ids only make sense for the original file.",
+ "metadata": {
+  "title": "Annual accessibility report 2025 — Northwind Public Services",
+  "lang": "en-US",
+  "author": "Northwind Public Services",
+  "subject": "How Northwind Public Services made its documents accessible in 2025: process, audit results and next steps.",
+  "keywords": []
+ },
+ "options": {
+  "reorder_text": "auto",
+  "pdfua": "auto",
+  "bookmarks": "auto"
+ },
+ "artifacts": {
+  "lines": [
+   "p1.L1",
+   "p1.L54",
+   "p1.L55",
+   "p2.L1",
+   "p2.L35",
+   "p2.L36",
+   "p3.L1",
+   "p3.L16",
+   "p3.L17"
+  ]
+ },
+ "structure": [
+  {
+   "tag": "Document",
+   "children": [
+    {
+     "tag": "H1",
+     "content": [
+      "p1.L2"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L3",
+      "p1.L4",
+      "p1.L5",
+      {
+       "tag": "Link",
+       "annot": "p1.A1",
+       "lines": [
+        "p1.L6"
+       ],
+       "contents": "Methodology (example.org)"
+      },
+      "p1.L7"
+     ]
+    },
+    {
+     "tag": "H2",
+     "content": [
+      "p1.L8"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L9",
+      "p1.L10",
+      "p1.L11",
+      "p1.L12",
+      "p1.L13"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L15",
+      "p1.L16",
+      "p1.L17",
+      "p1.L18",
+      "p1.L19"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L21",
+      "p1.L22",
+      "p1.L23",
+      "p1.L24",
+      "p1.L25"
+     ]
+    },
+    {
+     "tag": "H3",
+     "content": [
+      "p1.L27"
+     ]
+    },
+    {
+     "tag": "L",
+     "numbering": "Disc",
+     "items": [
+      {
+       "content": [
+        "p1.L28",
+        "p1.L29"
+       ]
+      },
+      {
+       "content": [
+        "p1.L30",
+        "p1.L31"
+       ]
+      },
+      {
+       "content": [
+        "p1.L32",
+        "p1.L33"
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "H3",
+     "content": [
+      "p1.L34"
+     ]
+    },
+    {
+     "tag": "L",
+     "numbering": "Decimal",
+     "items": [
+      {
+       "content": [
+        "p1.L35",
+        "p1.L36"
+       ]
+      },
+      {
+       "content": [
+        "p1.L37",
+        "p1.L38"
+       ]
+      },
+      {
+       "content": [
+        "p1.L39",
+        "p1.L40"
+       ]
+      },
+      {
+       "content": [
+        "p1.L41",
+        "p1.L42"
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "H2",
+     "content": [
+      "p1.L43"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L44"
+     ]
+    },
+    {
+     "tag": "Table",
+     "header_rows": 1,
+     "rows": [
+      [
+       [
+        "p1.L45"
+       ],
+       [
+        "p1.L46"
+       ],
+       [
+        "p1.L47"
+       ]
+      ],
+      [
+       [
+        "p1.L48"
+       ],
+       [
+        "p1.L49"
+       ],
+       [
+        "p1.L50"
+       ]
+      ],
+      [
+       [
+        "p1.L51"
+       ],
+       [
+        "p1.L52"
+       ],
+       [
+        "p1.L53"
+       ]
+      ],
+      [
+       [
+        "p2.L2"
+       ],
+       [
+        "p2.L3"
+       ],
+       [
+        "p2.L4"
+       ]
+      ]
+     ]
+    },
+    {
+     "tag": "Figure",
+     "graphics": [
+      "p2.G7"
+     ],
+     "alt": "Bar chart of accessible PDFs published per year: 12 in 2022, 19 in 2023, 26 in 2024 and 31 in 2025.",
+     "children": [
+      {
+       "tag": "Caption",
+       "content": [
+        "p2.L5"
+       ]
+      }
+     ]
+    },
+    {
+     "tag": "H2",
+     "content": [
+      "p2.L6"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p2.L7",
+      "p2.L8",
+      "p2.L9",
+      "p2.L10",
+      "p2.L12"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p2.L14",
+      "p2.L15",
+      "p2.L16",
+      "p2.L17",
+      "p2.L19"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p2.L21",
+      "p2.L22",
+      "p2.L23",
+      "p2.L24",
+      "p2.L26"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p2.L28",
+      "p2.L29",
+      "p2.L30",
+      "p2.L31",
+      "p2.L33"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p3.L2",
+      "p3.L3",
+      "p3.L4",
+      "p3.L5",
+      "p3.L7"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p3.L9",
+      "p3.L10",
+      "p3.L11",
+      "p3.L12",
+      "p3.L14"
+     ]
+    }
+   ]
+  }
+ ]
+}

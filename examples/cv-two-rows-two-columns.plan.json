@@ -1,0 +1,400 @@
+{
+ "_about": "Single-page CV exported from Figma (visible text = vector outlines, invisible Type3 text layer). Layout: 2 rows x 2 columns, separated by whitespace only. Each row and column is a Div with region/label so the reading order is row 1 (col 1, col 2) then row 2 (col 1, col 2). Contact details are a list of links with spoken-friendly descriptions in the document language. Line ids only make sense for the original file: use this as a shape reference.",
+ "metadata": {
+  "title": "Camille Durand – CV – Design manager",
+  "author": "Camille Durand",
+  "subject": "Curriculum vitæ de Camille Durand : expériences, formation, conférences et certifications.",
+  "keywords": [
+   "CV",
+   "Design manager"
+  ],
+  "lang": "fr-FR"
+ },
+ "options": {
+  "reorder_text": "auto",
+  "pdfua": "auto",
+  "bookmarks": "auto"
+ },
+ "structure": [
+  {
+   "tag": "Document",
+   "children": [
+    {
+     "region": "R1",
+     "label": "Row 1 · header",
+     "children": [
+      {
+       "region": "R1·C1",
+       "label": "Row 1 · column 1 (identity)",
+       "children": [
+        {
+         "tag": "H1",
+         "lines": [
+          "p1.L1"
+         ]
+        },
+        {
+         "tag": "P",
+         "lines": [
+          "p1.L2"
+         ]
+        }
+       ]
+      },
+      {
+       "region": "R1·C2",
+       "label": "Row 1 · column 2 (contact)",
+       "children": [
+        {
+         "tag": "L",
+         "numbering": "None",
+         "items": [
+          {
+           "link": {
+            "uri": "mailto:camille@example.org",
+            "contents": "Envoyer un e-mail à camille@example.org"
+           },
+           "lines": [
+            "p1.L3"
+           ]
+          },
+          {
+           "link": {
+            "uri": "tel:+33100000000",
+            "contents": "Appeler le +33 1 00 00 00 00"
+           },
+           "lines": [
+            "p1.L4"
+           ]
+          },
+          {
+           "link": {
+            "uri": "https://mastodon.example/@camille",
+            "contents": "Profil Mastodon @camille@mastodon.example"
+           },
+           "lines": [
+            "p1.L5"
+           ]
+          },
+          {
+           "lines": [
+            "p1.L6"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "region": "R2",
+     "label": "Row 2 · body",
+     "children": [
+      {
+       "region": "R2·C1",
+       "label": "Row 2 · column 1 (experience)",
+       "children": [
+        {
+         "tag": "Sect",
+         "children": [
+          {
+           "tag": "H2",
+           "lines": [
+            "p1.L7"
+           ]
+          },
+          {
+           "tag": "Sect",
+           "children": [
+            {
+             "tag": "H3",
+             "lines": [
+              "p1.L8"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L9..11"
+             ]
+            },
+            {
+             "tag": "H4",
+             "lines": [
+              "p1.L12"
+             ]
+            },
+            {
+             "tag": "L",
+             "numbering": "Disc",
+             "items": [
+              {
+               "lines": [
+                "p1.L13"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L14..16"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L17..18"
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "Sect",
+           "children": [
+            {
+             "tag": "H3",
+             "lines": [
+              "p1.L19"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L20..22"
+             ]
+            },
+            {
+             "tag": "H4",
+             "lines": [
+              "p1.L23"
+             ]
+            },
+            {
+             "tag": "L",
+             "numbering": "Disc",
+             "items": [
+              {
+               "lines": [
+                "p1.L24..25"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L26"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L27..28"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L29..30"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L31..32"
+               ]
+              },
+              {
+               "lines": [
+                "p1.L33..34"
+               ]
+              }
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L35..38"
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "Sect",
+           "children": [
+            {
+             "tag": "H3",
+             "lines": [
+              "p1.L39"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L40..42"
+             ]
+            },
+            {
+             "tag": "H4",
+             "lines": [
+              "p1.L69"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L70..73"
+             ]
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "region": "R2·C2",
+       "label": "Row 2 · column 2 (education, talks, certifications, profile)",
+       "children": [
+        {
+         "tag": "Sect",
+         "children": [
+          {
+           "tag": "H2",
+           "lines": [
+            "p1.L43"
+           ]
+          },
+          {
+           "tag": "Sect",
+           "children": [
+            {
+             "tag": "H3",
+             "lines": [
+              "p1.L61"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L62..64"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L44"
+             ]
+            }
+           ]
+          },
+          {
+           "tag": "Sect",
+           "children": [
+            {
+             "tag": "H3",
+             "lines": [
+              "p1.L65"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L66..68"
+             ]
+            },
+            {
+             "tag": "P",
+             "lines": [
+              "p1.L45..46"
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "Sect",
+         "children": [
+          {
+           "tag": "H2",
+           "lines": [
+            "p1.L47"
+           ]
+          },
+          {
+           "tag": "L",
+           "numbering": "None",
+           "items": [
+            {
+             "lines": [
+              "p1.L48"
+             ]
+            },
+            {
+             "lines": [
+              "p1.L49"
+             ]
+            },
+            {
+             "lines": [
+              "p1.L50"
+             ]
+            },
+            {
+             "lines": [
+              "p1.L51"
+             ]
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "Sect",
+         "children": [
+          {
+           "tag": "H2",
+           "lines": [
+            "p1.L52"
+           ]
+          },
+          {
+           "tag": "L",
+           "numbering": "None",
+           "items": [
+            {
+             "lines": [
+              "p1.L53"
+             ]
+            },
+            {
+             "lines": [
+              "p1.L54"
+             ],
+             "lang": "en-US",
+             "_note": "a real English phrase inside French text (WCAG 3.1.2); proper names and jargon do not need this"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "tag": "Sect",
+         "children": [
+          {
+           "tag": "H2",
+           "lines": [
+            "p1.L55"
+           ]
+          },
+          {
+           "tag": "P",
+           "lines": [
+            "p1.L56..60"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

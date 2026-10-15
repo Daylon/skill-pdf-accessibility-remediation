@@ -1,0 +1,10 @@
+{
+ "_about": "Expected results for each fixture. 'plan' defaults to fixtures/<name>.plan.json. 'fails' lists the validator checks that must FAIL (design issues of the source that tags cannot fix); every other check must not FAIL. Visual identity must always PASS.",
+ "article-pdflatex": {"pages": 2, "fails": []},
+ "report-libreoffice": {"pages": 3, "plan": "examples/report-multipage.plan.json", "fails": ["Text contrast (rendered)"]},
+ "web-wkhtmltopdf": {"pages": 1, "fails": ["Text contrast (rendered)"]},
+ "edge-reportlab": {"pages": 2, "fails": [], "pdfua_claim": false},
+ "newsletter-chromium": {"pages": 1, "fails": [], "first_heading": "La Lettre du Quartier Vert"},
+ "handbook-chromium": {"pages": 27, "fails": [], "bookmarks": true, "slow": true},
+ "scanned-image-only": {"pages": 1, "stop": true}
+}

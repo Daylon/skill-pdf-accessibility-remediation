@@ -1,0 +1,8 @@
+# Python dependencies of the skill-pdf-accessibility-remediation scripts (scripts/setup_env.py installs them for you).
+# Tested with Python 3.9 (pikepdf 9.11, numpy 2.0) and 3.10–3.13 (pikepdf 10.13, numpy 2.2–2.5).
+pikepdf>=9.0
+numpy>=1.23
+pillow>=9.1
+pdfminer.six>=20221105
+# optional: better language detection on short strings (a stop-word vote is used without it)
+lingua-language-detector>=2.0

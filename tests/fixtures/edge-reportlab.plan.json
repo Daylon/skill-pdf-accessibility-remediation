@@ -1,0 +1,135 @@
+{
+ "metadata": {
+  "title": "Quarterly bulletin — office, budget and summer event",
+  "lang": "en-US",
+  "author": null,
+  "subject": null,
+  "keywords": []
+ },
+ "options": {
+  "reorder_text": "auto",
+  "pdfua": "auto",
+  "bookmarks": "auto"
+ },
+ "artifacts": {
+  "lines": [
+   "p1.L6",
+   "p1.L8",
+   "p2.L12"
+  ]
+ },
+ "structure": [
+  {
+   "tag": "Document",
+   "children": [
+    {
+     "tag": "H1",
+     "content": [
+      "p1.L1"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L2",
+      "p1.L3",
+      {
+       "tag": "Link",
+       "annot": "p1.A1",
+       "lines": [
+        "p1.L4"
+       ],
+       "contents": "Open https://example.com/archive"
+      }
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L5"
+     ]
+    },
+    {
+     "tag": "P",
+     "content": [
+      "p1.L7"
+     ]
+    },
+    {
+     "tag": "Form",
+     "annot": "p1.A2"
+    },
+    {
+     "tag": "H2",
+     "content": [
+      "p2.L1"
+     ]
+    },
+    {
+     "region": "R2",
+     "label": "p2 row R2",
+     "children": [
+      {
+       "region": "R2·C1",
+       "label": "p2 column R2·C1",
+       "children": [
+        {
+         "tag": "Table",
+         "header_rows": 0,
+         "rows": [
+          [
+           [
+            "p2.L2"
+           ],
+           [
+            "p2.L3"
+           ]
+          ],
+          [
+           [
+            "p2.L4"
+           ],
+           [
+            "p2.L5"
+           ]
+          ],
+          [
+           [
+            "p2.L6"
+           ],
+           [
+            "p2.L7"
+           ]
+          ],
+          [
+           [
+            "p2.L8"
+           ],
+           [
+            "p2.L9"
+           ]
+          ]
+         ],
+         "header_cols": 1
+        }
+       ]
+      },
+      {
+       "region": "R2·C2",
+       "label": "p2 column R2·C2",
+       "children": [
+        {
+         "tag": "P",
+         "content": [
+          "p2.L10",
+          "p2.L11"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
