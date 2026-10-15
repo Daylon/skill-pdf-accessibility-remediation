@@ -3,7 +3,7 @@
   <img src="docs/images/LABEL_AI_black.svg" alt="AI-generated content" width="64" height="64">
 </picture>
 
-**AI-generated content.** An AI model (Claude, by Anthropic) wrote the code and the documentation of this skill. A person gave the instructions, examined the results, and accepted them.
+_**AI-generated content.** An AI model (Claude, by Anthropic) wrote the code and the documentation of this skill. A person gave the instructions, examined the results, and accepted them._
 
 ----
 
